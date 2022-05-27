@@ -1,0 +1,52 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+#logo h1{
+    background-color: red;
+    color: white;
+}
+#navigation ul{
+    list-style: none;
+    padding: 0;
+}
+#navigation a{
+    color: blue;
+    font-size: 20px;
+}
+#info_kfc{
+    background-color: brown;
+}
+#info_kfc h2{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+#info_kfc p{
+    color: white;
+    font-size: 30px;
+}
+#info-dev{
+    background-color: brown;
+}
+#info-dev h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+#info-dev ul{
+    list-style: disc;
+    font-size: 25px;
+    color: white;
+}
+#table-center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    height: 800px;
+}
+#table-menu h1{
+    text-align: center;
+}
+
